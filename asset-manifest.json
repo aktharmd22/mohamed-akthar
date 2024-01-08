@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mohamed-akthar/static/css/main.73ca930f.css",
+    "main.css": "/mohamed-akthar/static/css/main.7560b1f3.css",
     "main.js": "/mohamed-akthar/static/js/main.d3624bc8.js",
     "static/media/MySql.png": "/mohamed-akthar/static/media/MySql.167c88550478e6f0f85c.png",
     "static/media/project2.jpg": "/mohamed-akthar/static/media/project2.aa2a454b89cab993e759.jpg",
@@ -18,11 +18,11 @@
     "static/media/firebase.png": "/mohamed-akthar/static/media/firebase.209703cedf1b1a96bc52.png",
     "static/media/javascript.png": "/mohamed-akthar/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/mohamed-akthar/index.html",
-    "main.73ca930f.css.map": "/mohamed-akthar/static/css/main.73ca930f.css.map",
+    "main.7560b1f3.css.map": "/mohamed-akthar/static/css/main.7560b1f3.css.map",
     "main.d3624bc8.js.map": "/mohamed-akthar/static/js/main.d3624bc8.js.map"
   },
   "entrypoints": [
-    "static/css/main.73ca930f.css",
+    "static/css/main.7560b1f3.css",
     "static/js/main.d3624bc8.js"
   ]
 }
